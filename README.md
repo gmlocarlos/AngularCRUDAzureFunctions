@@ -34,4 +34,4 @@ ng build --configuration production
 
 **Step 4.** In the **Azure** option in the left side, sign in with your azure account
 
-**Step 5.** In the **Storage** section find your create storage account and right click, and press the option **Deploy to function app**
+**Step 5.** In the **Storage** section find your create storage account and right click, and press the option **Deploy to static website via Azure Storage...** and browse and select the build folder into **dist** folder
