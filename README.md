@@ -1,6 +1,6 @@
 # AngularCRUDAzureFunctions
 
-This is a Angular project with CRUD operations and consume Azure Functions of type HttpTrigger
+This is a Angular project with CRUD operations and consume Azure Functions of type HttpTrigger. You can see a example running project in <https://accountstoragehelpdesk.z13.web.core.windows.net/>
 
 ## Usage
 
@@ -8,12 +8,12 @@ This is a Angular project with CRUD operations and consume Azure Functions of ty
 
 **Step 2.** Install the dependencies with the next command:
 
-```node
+```nodejs
 npm install
 ```
 
 **Step 3.** Compile the project with the next command:
 
-```node
+```nodejs
 ng serve
 ```
